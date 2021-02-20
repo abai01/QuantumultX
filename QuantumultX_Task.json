@@ -11,6 +11,9 @@
     "45 4 8 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/check_in/glados/checkin_env.js, tag=机场签到, img-url=https://raw.githubusercontent.com/Orz-3/Task/master/airport.png, enabled=true",
     "0 5 8 * * * https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master//check_in/glados/checkincookie_env.js, tag=机场签到Cookie版, img-url=https://raw.githubusercontent.com/58xinian/icon/master/glados.png, enabled=false",
     "0/30 * * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_factory.js, tag=京喜工厂助力+自动开团参团, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png, enabled=true",
+    "30 6 * * * https://raw.githubusercontent.com/ztxtop/x/main/youth_banner.js, tag=中青看看赚, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png, enabled=true",
+    "0 */2 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js, tag=中青看点极速版, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png, enabled=true",
+    "10 */2 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/Youth_Read.js, tag=中青自动阅读, img-url= https://raw.githubusercontent.com/Orz-3/task/master/youth.png, enabled=true",
  ]
 }
 
