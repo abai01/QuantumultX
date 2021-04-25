@@ -2,7 +2,7 @@
  "name": "自用_diy gallery",
  "description": "自用除京东以外的Task脚本",
  "task": [   
-    "6 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/ximalaya/ximalaya.js, tag=喜马拉雅, img-url=https://raw.githubusercontent.com/Orz-3/task/master/ximalaya.png, enabled=true",
+    "20 9 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/ximalaya/ximalaya.js, tag=喜马拉雅, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/ximalaya.png, enabled=true",
     "7 9 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/jddj.js, tag=京东到家, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/jddj.png, enabled=true",
     "0/30 * * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/jx_factory.js, tag=京喜工厂助力+自动开团参团, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png, enabled=true",    
     "*/14 5-23 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js, tag=中青看点极速版, img-url=https://raw.githubusercontent.com/ChuheGit/1/main/QuantumultX/Gallery/API-Icon/youth.png, enabled=true",
